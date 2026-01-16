@@ -1,6 +1,6 @@
 # Repository for our paper Reinforcement Learning with Simple Sequence priors
 
-By Tankred Saanum, Noemi Elteto, Peter Dayan, Marcel Binz, and Eric Schulz. You can find our paper [here]([https://www.arxiv.org/abs/2509.21534](https://papers.neurips.cc/paper_files/paper/2023/file/c3909e3abe8ebdb20c42a42ce0bc907d-Paper-Conference.pdf)).
+By Tankred Saanum, Noemi Elteto, Peter Dayan, Marcel Binz, and Eric Schulz. You can find our paper [here](https://papers.neurips.cc/paper_files/paper/2023/file/c3909e3abe8ebdb20c42a42ce0bc907d-Paper-Conference.pdf).
 
 ![alt text](overview.png "Title")
 
